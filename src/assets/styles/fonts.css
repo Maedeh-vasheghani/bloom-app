@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "Filson Pro";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/fonts/filson-pro-cufonfonts/FilsonProRegular.otf"),
+}
+
+@font-face {
+  font-family: "Filson Pro";
+  font-style: normal;
+  font-weight: 900;
+  src: url("/fonts/filson-pro-cufonfonts/FilsonProBlack.otf"),
+}
+@font-face {
+  font-family: "Filson Pro";
+  font-style: normal;
+  font-weight: 800;
+  src: url("/fonts/filson-pro-cufonfonts/FilsonProBold.otf"),
+}
+
