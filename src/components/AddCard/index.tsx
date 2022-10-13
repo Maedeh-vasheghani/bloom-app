@@ -26,7 +26,7 @@ function Card() {
             <div className="card ">
               <div className=" flex flex-col w-full justify-between bg-greenblue h-[130px] rounded-lg text-white shadow-el1 p-2.5 font-Filson">
                 <div className="flex flex-row ">
-                  <div className="pr-2">
+                  <div className="pr-2.5">
                     <ProfilePicture profilePic={item.photo} />
                   </div>
 
